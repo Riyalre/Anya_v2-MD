@@ -76,7 +76,7 @@ module.exports = {
   warns: process.env.Warns_Limits || 3,
   mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
   welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_$prefix welcome off to disable this message._',
-  left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
+  left: process.env.Left_Msg || '94741897654 *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
   demote: process.env.Demote_Msg || '*@$user* has been demoted to a member in this group.\n\n_$prefix demotem off to disable this message._',
   sessionId: process.env.SESSION_ID || "dlFSU1RDeVIjRkktbT_Queen-Anya_NrdFZEbnhvcFM1NmFFT_Queen-Anya_192V1FhUkE5Xzg0WFdhZkRjNGZDWW13cw==", 
@@ -107,9 +107,9 @@ module.exports = {
 // Ignore them 👇🏻
 global.botname = process.env.BotName || "Ridiya bot" 
 global.author = process.env.Author || "@Rediya" 
-global.packname = process.env.PackName || "Queen Anya v2 MD" 
+global.packname = process.env.PackName || "Riyalrediya" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
+global.footer = process.env.Footer || "©RediyaBot" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
 global.ownername = process.env.Owner_Name || "Pika~Kun" 
